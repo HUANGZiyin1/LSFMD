@@ -1,0 +1,25 @@
+<<<<<<<<<< Test >>>>>>>>>>
+Timestamp: [20250115_174922]
+
+<<<<<<<<<< Options >>>>>>>>>>
+restore_iter: 300000
+pbar_len: 100
+criterion:[
+  type: PSNR
+  unit: dB
+  ]
+checkpoint_save_path: exp/SCC_LD_LSFMv2_QP37_enlarg300x/ckp_300000.pt
+
+loading model exp/SCC_LD_LSFMv2_QP37_enlarg300x/ckp_300000.pt...
+> model exp/SCC_LD_LSFMv2_QP37_enlarg300x/ckp_300000.pt loaded.
+
+<<<<<<<<<< Results >>>>>>>>>>
+MissionControlClip1_2560x1440_60p_8b_600_444.yuv: [0.94007] dB -> [0.94674] dB -> delta [0.00667] dB
+MissionControlClip2_2560x1440_60_8bit_600_444.yuv: [0.95424] dB -> [0.96025] dB -> delta [0.00601] dB
+> ori: [0.94715] dB
+> ave: [0.95349] dB
+> delta: [0.00634] dB
+TOTAL TIME: [16441.82026] ms
+
+<<<<<<<<<< Goodbye >>>>>>>>>>
+Timestamp: [20250115_191136]
