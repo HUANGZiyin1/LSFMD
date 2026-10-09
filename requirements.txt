@@ -1,0 +1,8 @@
+torch
+numpy
+PyYAML
+tqdm
+scipy
+opencv-python
+scikit-image
+lmdb

@@ -1,0 +1,12 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+*.so
+*.o
+build/
+*.egg-info/
+.venv/
+venv/
+data/
+*.lmdb/
